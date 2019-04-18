@@ -1,2 +1,2 @@
 # spring
-Basic Spring and Hibernate
+Basic Spring and Hibernate.
