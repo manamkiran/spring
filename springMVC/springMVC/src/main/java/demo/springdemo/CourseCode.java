@@ -13,9 +13,9 @@ import javax.validation.Payload;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface CourseCode {
 
-	public String value() default "LUV";
+	public String value() default "LUV1";
 
-	public String message() default "must start with LUV";
+	public String message() default "must start with LUV1";
 
 	public Class<?>[] groups() default {};
 
